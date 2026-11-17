@@ -1,26 +1,33 @@
-### Hi there, I'm Nahit ! 👋 
+### Hi there, I'm Nahit! 👋
 
-🎓 University Student | 💻 Software Developer | 🎮 Game Dev Enthusiast
+🎓 3rd-Year Computer Engineering Student | 💻 Full-Stack Developer | 🎮 Game Dev Enthusiast
 
-I'm a 2nd-year Computer Engineering student at Karabük University. I love building solid code architectures, exploring creative game mechanics, and diving into software engineering. When I want to take a break from the complexities of life, you can find me cooking, playing chess, or relaxing with games like GTA V and ETS 2.
+I'm a Computer Engineering student at Karabük University focused on full-stack web development, AI integrations, and game development[cite: 36, 37]. Recently, I completed a 3-month software engineering internship at **Metriqore**, working with Next.js, NestJS, PostgreSQL, and OpenAI API[cite: 36].
 
-🔭 **What I've Built & Worked On:**
-* **Mini-Game (Unreal Engine 5):** Collaborated closely with friends to bring a creative concept to life. Handled the end-to-end development to successfully complete a functional mini-game using Unreal Engine 5.
-* **Teknofest Robolig (2025):** Stepped out of the classroom to apply theoretical knowledge in a highly competitive robotics environment.
-* **File Compression Utility:** Dived into algorithmic problem-solving by designing a practical tool in C that efficiently compresses files using the Huffman Coding algorithm.
-* **Foundational Web App:** Built a straightforward web project using HTML, CSS, PHP, and SQL with functional user forms and data handling.
+When I'm away from the keyboard, you can find me cooking, playing chess, or relaxing with GTA V and ETS 2[cite: 37].
 
-📚 **Always Learning:**
-I'm continuously expanding my programming toolkit. Recently, I've received introductory training in cybersecurity and am exploring its fundamentals. I'm also actively practicing my English (B2) and German (B1). 
+---
 
-🛠️ **Tech Stack & Tools:**
-* **Languages:** C, C++, Java, Python, PHP, SQL, HTML, CSS 
-* **Tools & Engines:** Unreal Engine 5 
-* **Core Interests:** Software Development, Game Development, Object-Oriented Programming (OOP)
+### 💼 Experience
+* **Full-Stack Software Engineering Intern @ Metriqore** *(06/2026 – 09/2026)*[cite: 36] — Built multi-tenant Next.js portals, implemented i18n routing (`next-intl`), developed Apify web scrapers, and improved an OpenAI-based WhatsApp assistant[cite: 12, 36].
 
-📫 **How to Reach Me:**
-* **LinkedIn:** [nahit-ayhan](https://www.linkedin.com/in/nahit-ayhan-679141298/) 
-* **GitHub:** [NahitAyhan](https://github.com/NahitAyhan) 
-* **Email:** erkamnahit19@gmail.com 
+---
 
-⭐️ Thanks for stopping by!
+### 🚀 Highlighted Projects
+* **2025 TEKNOFEST Robolig Competition:** Real-time lane tracking and object detection using **Python** and **OpenCV**[cite: 36].
+* **3D Parkour Mini-Game (Unreal Engine 5):** Interactive level design, obstacle mechanics, and checkpoints built with **Blueprints**[cite: 36].
+* **File Compression Utility:** Lossless file compressor in **C** implementing the **Huffman Coding** algorithm[cite: 36].
+* **Banking System Simulation:** Console-based banking system in **Java** built with **OOP** principles[cite: 36].
+
+---
+
+### 🛠️ Tech Stack
+* **Languages:** C, C++, C#, Java, Python, TypeScript, JavaScript, SQL, Assembly[cite: 36]
+* **Web & Backend:** Next.js, React, NestJS, Prisma, PostgreSQL, Tailwind CSS, HTML, CSS, PHP[cite: 36]
+* **Tools & AI:** Git, GitHub, OpenAI API, Apify, OpenCV, Unreal Engine 5[cite: 36]
+
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** [linkedin.com/in/nahit-ayhan](https://www.linkedin.com/in/nahit-ayhan)[cite: 36]
+* **Email:** erkamnahit19@gmail.com[cite: 36, 37]
