@@ -23,7 +23,7 @@ When I'm away from the keyboard, you can find me cooking, playing chess, or rela
 ---
 
 ### 🛠️ Tech Stack
-* **Languages:** C, C++, C#, Java, Python, TypeScript, JavaScript, SQL, Assembly]
+* **Languages:** C, C++, C#, Java, Python, TypeScript, JavaScript, SQL, Assembly
 * **Web & Backend:** Next.js, React, NestJS, Prisma, PostgreSQL, Tailwind CSS, HTML, CSS, PHP
 * **Tools & AI:** Git, GitHub, OpenAI API, Apify, OpenCV, Unreal Engine 5
 
